@@ -1,0 +1,1 @@
+### The BARE MINIMUM to get "Hello World!" running in serial on SAM e51 Curiosity Kit
